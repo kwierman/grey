@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'grey/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'
